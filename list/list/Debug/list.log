@@ -1,0 +1,7 @@
+﻿  Assignment 6.cpp
+C:\Users\user\YI-HSUAN\list\list\List - 1072019 - hw6.h(153,24): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\user\YI-HSUAN\list\list\List - 1072019 - hw6.h(145): message : 編譯 類別 樣板 成員函式 'list<int> &list<int>::operator =(const list<int> &)' 期間
+C:\Users\user\YI-HSUAN\list\list\Assignment 6.cpp(236): message : 請參考正在進行編譯的函式 樣板 具現化 'list<int> &list<int>::operator =(const list<int> &)'
+C:\Users\user\YI-HSUAN\list\list\List - 1072019 - hw6.h(150): message : 請參考正在進行編譯的 類別 樣板 具現化 'list<int>'
+C:\Users\user\YI-HSUAN\list\list\List - 1072019 - hw6.h(343): message : 請參考正在進行編譯的 類別 樣板 具現化 'list<Ty>'
+  list.vcxproj -> C:\Users\user\YI-HSUAN\list\Debug\list.exe
